@@ -1,0 +1,15 @@
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\bin\Debug\net6.0\if.exe
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\bin\Debug\net6.0\if.deps.json
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\bin\Debug\net6.0\if.runtimeconfig.json
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\bin\Debug\net6.0\if.dll
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\bin\Debug\net6.0\ref\if.dll
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\bin\Debug\net6.0\if.pdb
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.csproj.AssemblyReference.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.AssemblyInfoInputs.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.AssemblyInfo.cs
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.csproj.CoreCompileInputs.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.dll
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\ref\if.dll
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.pdb
+C:\Users\sangmin.oh\Desktop\練習\Csharp\if\obj\Debug\net6.0\if.genruntimeconfig.cache
