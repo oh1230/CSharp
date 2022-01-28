@@ -1,0 +1,11 @@
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\bin\Debug\Timer_Example.exe.config
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\bin\Debug\Timer_Example.exe
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\bin\Debug\Timer_Example.pdb
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.csproj.AssemblyReference.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.Timer.resources
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.Properties.Resources.resources
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.csproj.GenerateResource.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.csproj.CoreCompileInputs.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.exe
+C:\Users\sangmin.oh\Desktop\練習\Csharp\Timer_Example\Timer_Example\obj\Debug\Timer_Example.pdb
