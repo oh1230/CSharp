@@ -1,0 +1,11 @@
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\sangmin.oh\Desktop\練習\Csharp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
